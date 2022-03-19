@@ -1,5 +1,5 @@
 {
-  "name": "pk/dunit",
+  "name": "dunit/dunit",
   "description": "Laravel Unit Testing",
   "type": "library",
 	"license": "BSD-3-Clause"
