@@ -1,0 +1,6 @@
+{
+  "name": "pk/dunit",
+  "description": "Laravel Unit Testing",
+  "type": "library",
+  "license": "1"
+}
