@@ -1,6 +1,6 @@
 <?php
 
-namespace Dunit;
+namespace vectorface\Dunit;
 
 
 
