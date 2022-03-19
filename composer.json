@@ -1,5 +1,5 @@
 {
-  "name": "vectorface/dunit",
+  "name": "vtface/dunit",
   "description": "Laravel Unit Testing",
   "type": "library",
 	"license": "BSD-3-Clause"
